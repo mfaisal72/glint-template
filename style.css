@@ -1,0 +1,38 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-image: url(hero-bg.jpg);
+    background-size: cover;
+    
+}
+
+.navbar-brand{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 30px; 
+}
+.btn{
+    font-size: 12px;
+}
+.container{
+    height: auto;
+}
+.container-fluid{
+    height: auto;
+}
+.wc{
+    color: grey;
+}
+
+#para p{
+    font-size: 30px;
+}
+#hello h4{
+    font-size: 15px;
+}
+#score p{
+    font-size: 60px;
+    color: white;
+}
